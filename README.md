@@ -42,6 +42,7 @@ approved.xlsx, rejected.xlsx, confirmed.xlsx: Data storage files for decisions.
 🚀 How to Run
 Clone the repo:
 git clone https://github.com/yourusername/loan-approval-system.git
+
 cd loan-approval-system
 
 Install dependencies:
