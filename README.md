@@ -36,3 +36,16 @@ scaler.pkl: Feature scaler for input normalization.
 loanWeb.py: Main Streamlit app script.
 
 approved.xlsx, rejected.xlsx, confirmed.xlsx: Data storage files for decisions.
+
+
+
+🚀 How to Run
+Clone the repo:
+git clone https://github.com/yourusername/loan-approval-system.git
+cd loan-approval-system
+
+Install dependencies:
+pip install -r requirements.txt
+
+Run the app:
+streamlit run loanWeb.py
